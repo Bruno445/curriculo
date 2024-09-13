@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículo - João Silva</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>João Silva</h1>
+        <p>Desenvolvedor Web | Programador</p>
+    </header>
+    <section id="about">
+        <h2>Sobre Mim</h2>
+        <p>Sou um desenvolvedor web com experiência em HTML, CSS, e JavaScript. Apaixonado por criar soluções eficientes e inovadoras.</p>
+    </section>
+    <section id="experience">
+        <h2>Experiência</h2>
+        <ul>
+            <li>
+                <h3>Desenvolvedor Web - Empresa X</h3>
+                <p>Jan 2020 - Presente</p>
+                <p>Desenvolvimento de aplicações web utilizando HTML, CSS e JavaScript.</p>
+            </li>
+            <li>
+                <h3>Estagiário - Empresa Y</h3>
+                <p>Jun 2018 - Dez 2019</p>
+                <p>Apoio no desenvolvimento e manutenção de sites.</p>
+            </li>
+        </ul>
+    </section>
+    <section id="skills">
+        <h2>Habilidades</h2>
+        <ul>
+            <li>HTML5</li>
+            <li>CSS3</li>
+            <li>JavaScript</li>
+            <li>React</li>
+        </ul>
+    </section>
+    <section id="contact">
+        <h2>Contato</h2>
+        <p>Email: joao.silva@example.com</p>
+        <p>Telefone: (11) 1234-5678</p>
+    </section>
+    <footer>
+        <p>&copy; 2024 João Silva</p>
+    </footer>
+    <script src="scripts.js"></script>
+</body>
+</html>
